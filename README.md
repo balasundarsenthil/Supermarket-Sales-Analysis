@@ -73,3 +73,20 @@ python python/business_insights.py
 - ## 📊 Power BI Dashboard
 
 ![Supermarket Sales Dashboard](screenshots/dashboard.png)
+## 💡 Key Insights
+
+- Identified the highest-performing product categories based on total sales and revenue.
+- Compared branch-wise sales performance to identify stronger-performing locations.
+- Analyzed customer types to understand purchasing behavior and transaction patterns.
+- Identified the most commonly used payment methods among customers.
+- Analyzed sales trends to understand changes in revenue and transaction volume.
+- Evaluated product and category performance to identify major contributors to overall revenue.
+- Used SQL and Python analysis to transform raw sales data into meaningful business insights.
+
+## 📌 Conclusion
+
+The Supermarket Sales Analysis project demonstrates an end-to-end data analytics workflow using **MySQL, Python, and Power BI**.
+
+SQL was used to perform business-focused data analysis, Python was used for data cleaning, exploratory analysis, and visualization, and Power BI was used to build an interactive dashboard.
+
+The analysis provides insights into **sales performance, customer behavior, product categories, branches, and payment methods**, helping businesses make data-driven decisions related to sales, inventory, and marketing strategies.
