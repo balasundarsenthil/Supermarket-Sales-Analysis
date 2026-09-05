@@ -70,3 +70,6 @@ python python/business_insights.py
 - DAX
 - Business storytelling
 - Data-driven recommendations
+- ## 📊 Power BI Dashboard
+
+![Supermarket Sales Dashboard](screenshots/dashboard.png)
